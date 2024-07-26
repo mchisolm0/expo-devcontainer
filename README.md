@@ -9,7 +9,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Prerequisites
 
 - Install Xcode and Xcode build tools
-  <img width="955" alt="Expo environment setup" src="https://github.com/user-attachments/assets/33fafb63-99fb-4a30-a337-5dc2608e501d">
+  <img width="941" alt="Expo environment setup" src="https://github.com/user-attachments/assets/0604fcad-f2a6-400d-9bca-e432451a3c38">
   https://docs.expo.dev/get-started/set-up-your-environment/
 - Install Android Studio
 
