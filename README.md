@@ -6,15 +6,25 @@ This is a Dev Container with Expo, TypeScript, and Node.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Prerequisites
+
+- Install Xcode and Xcode build tools
+  <img width="955" alt="Expo environment setup" src="https://github.com/user-attachments/assets/33fafb63-99fb-4a30-a337-5dc2608e501d">
+  https://docs.expo.dev/get-started/set-up-your-environment/
+- Install Android Studio
+
 ## Get started
 
-1. Install dependencies
+1. Clone or fork this repo
+2. Open the directory in VS Code
+3. Click to reopen in Dev Container
+4. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+5. Start the app
 
    ```bash
     npx expo start
